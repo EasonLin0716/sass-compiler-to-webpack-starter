@@ -8,12 +8,11 @@ body {
   color: #3f3636;
 }
 
-.home .home-wrapper {
-  padding: 20px;
+.new-event .new-event-wrapper {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-}
-.home .home-text {
-  color: red;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
