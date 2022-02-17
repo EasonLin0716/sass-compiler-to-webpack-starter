@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #3f3636;
+}
+
+.home .home-wrapper {
+  padding: 20px;
+}
+.home .home-text {
+  color: red;
+}

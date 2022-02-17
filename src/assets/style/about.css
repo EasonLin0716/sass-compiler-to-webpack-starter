@@ -1,0 +1,19 @@
+html,
+body {
+  margin: 0;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #3f3636;
+}
+
+.about .about-wrapper {
+  background-color: yellow;
+  border: 1px solid #000;
+  padding: 20px;
+}
+
+.about .about-text {
+  font-size: 24px;
+}

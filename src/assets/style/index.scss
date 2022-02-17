@@ -1,0 +1,11 @@
+@import "./common";
+
+.home {
+  .home-wrapper {
+    padding: 20px;
+    display: flex;
+  }
+  .home-text {
+    color: red;
+  }
+}

@@ -1,0 +1,16 @@
+@import "./common";
+
+@mixin box {
+  background-color: yellow;
+  border: 1px solid #000;
+}
+
+.about {
+  .about-wrapper {
+    @include box;
+    padding: 20px;
+  }
+  .about-text {
+    font-size: 24px;
+  }
+}
